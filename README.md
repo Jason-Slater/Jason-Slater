@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Jason-Slater
-- 👀 I’m interested in ...
-- 🌱 I’m ALWAYS learning ...
-
+- Hello Everyone!!!  
+- Let's Do THIS!!!
 
 <!---
 Jason-Slater/Jason-Slater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
