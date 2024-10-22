@@ -1,6 +1,6 @@
 ## Hello World!   I'm Jason Slater👋
 
-## 🖥️ TECHNICAL LEADER | ACCREDITED TECHNOLOGIST
+## 🖥️ INNOVATIVE TECHNOLOGY LEADER / ACCREDITED TECHNOLOGIST
 Enterprise Server Infrastructure Manager | Security Advocate| Cloud Enthusiast | AI Explorer
 
 I’m passionate about building and maintaining robust, secure, and scalable infrastructure solutions. With over 20 years of experience in enterprise server management, automation, and cloud technologies, I’m constantly expanding my knowledge in areas like **Security - Endpoint Detection & Response**, **Azure services**, and **Machine Learning**.
