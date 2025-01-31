@@ -32,7 +32,7 @@ _AI | Azure | Security_
 ### 💼 Work Experience:
 - Enterprise Server Infrastructure Manager 
 - Director of Server Operations 
-- Solutions Architect | Minority Owner of an SMB Solution Provider
+- Solutions Architect | SMB Solution Provider
 
 ### 📫 Get in touch:
 - [LinkedIn Profile](https://www.linkedin.com/in/jason-slater-b592017/)
